@@ -1,16 +1,27 @@
-## Hi there 👋
+PS C:\dev\diniz> whoami 
 
-<!--
-**Diniz-J/Diniz-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer (Go)
 
-Here are some ideas to get you started:
+PS C:\dev\diniz> Get-About 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend engineer focused on scalable systems and high-performance APIs. Experienced in building reliable backend services with clean architecture and strong performance.
+
+PS C:\dev\diniz> Get-TechStack
+
+Go (Golang)
+Python
+PostgreSQL, MySQL
+AWS
+Docker
+PS C:\dev\diniz> Get-WhatIDo
+
+Build REST APIs
+Design microservice architectures
+Develop scalable backend systems
+Improve performance and reliability
+PS C:\dev\diniz> Get-Projects
+
+Event Management API (Go + PostgreSQL + Docker)
+PS C:\dev\diniz> Get-Contact
+
+LinkedIn: https://www.linkedin.com/in/rodrigo-diniz-junior-b68987341
