@@ -4,7 +4,8 @@ Backend Engineer (Go)
 
 PS C:\dev\diniz> Get-About 
 
-Backend engineer focused on scalable systems and high-performance APIs. Experienced in building reliable backend services with clean architecture and strong performance.
+Backend engineer focused on scalable systems and high-performance APIs. 
+Experienced in building reliable backend services with clean architecture and strong performance.
 
 PS C:\dev\diniz> Get-TechStack
 
