@@ -1,3 +1,4 @@
+```
 PS C:\dev\diniz> whoami 
 
 Backend Engineer (Go)
@@ -26,3 +27,4 @@ Event Management API (Go + PostgreSQL + Docker)
 PS C:\dev\diniz> Get-Contact
 
 LinkedIn: https://www.linkedin.com/in/rodrigo-diniz-junior-b68987341
+```
