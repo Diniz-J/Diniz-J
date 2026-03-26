@@ -1,4 +1,4 @@
-```
+```md
 PS C:\dev\diniz> whoami 
 
 Backend Engineer (Go)
@@ -15,6 +15,7 @@ Python
 PostgreSQL, MySQL
 AWS
 Docker
+
 PS C:\dev\diniz> Get-WhatIDo
 
 Build REST APIs
@@ -24,7 +25,9 @@ Improve performance and reliability
 PS C:\dev\diniz> Get-Projects
 
 Event Management API (Go + PostgreSQL + Docker)
-PS C:\dev\diniz> Get-Contact
+
+````
+## 🔗 Contact
 
 LinkedIn: https://www.linkedin.com/in/rodrigo-diniz-junior-b68987341
-```
+
