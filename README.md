@@ -34,8 +34,13 @@ PS C:\dev\diniz> Get-Projects
   Go · MySQL · JWT · Docker · REST API · golang-migrate
   github.com/Diniz-J/CRM-Terreiro
 
+→ Diario-Escolar
+  Multi-tenant for schools, built with RESTful architecture.
+  Python · PostgreSQL · JWT · Docker · REST API · Django
+  github.com/Diniz-J/Diario-Escolar
+
 PS C:\dev\diniz> Get-Contact
-LinkedIn : linkedin.com/in/rodrigo-diniz-junior-b68987341
+LinkedIn : linkedin.com/in/rodrigo-diniz-junior/
 GitHub   : github.com/Diniz-J
 
 PS C:\dev\diniz> _
