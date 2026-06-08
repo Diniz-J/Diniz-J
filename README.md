@@ -3,7 +3,7 @@ PS C:\dev\diniz> whoami
 diniz
 
 PS C:\dev\diniz> $env:ROLE
-backend developer · go enthusiast
+backend & infrastructure engineer · go enthusiast
 
 PS C:\dev\diniz> Get-About description
 Building production APIs and AWS infrastructure.
@@ -11,22 +11,22 @@ Go-first mindset with clean architecture, async patterns,
 systems that dont break at 3am.
 
 PS C:\dev\diniz> Get-About focus
-Scalable REST APIs · Microservices · Cloud Infrastructure
+Scalable REST APIs · Observability · Cloud Infrastructure
 
 PS C:\dev\diniz> Get-TechStack languages
 Go · Python
 
 PS C:\dev\diniz> Get-TechStack frameworks
-Fiber · Gin · Mux · Django
+Fiber · Gin · Mux · Django · Django REST Framework
 
 PS C:\dev\diniz> Get-TechStack databases
-PostgreSQL · MySQL · MongoDB
+PostgreSQL · MariaDB · MySQL · MongoDB
 
 PS C:\dev\diniz> Get-TechStack infrastructure
-AWS · Docker
+AWS · Docker · Docker Compose · Render · Digital Ocean · Vercel
 
-PS C:\dev\diniz> Get-TechStack devops
-Grafana · SonarQube
+PS C:\dev\diniz> Get-TechStack observability
+Grafana · Loki · Prometheus · SonarQube · Sentry
 
 PS C:\dev\diniz> Get-Projects
 → CRM-Terreiro
@@ -36,7 +36,7 @@ PS C:\dev\diniz> Get-Projects
 
 → Diario-Escolar
   Multi-tenant for schools, built with RESTful architecture.
-  Python · PostgreSQL · JWT · Docker · REST API · Django
+  Python · PostgreSQL · JWT · Docker · Django · Render · Sentry · Vercel
   github.com/Diniz-J/Diario-Escolar
 
 PS C:\dev\diniz> Get-Contact
