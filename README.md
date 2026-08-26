@@ -28,6 +28,9 @@ AWS · Docker · Docker Compose · Render · Digital Ocean · Vercel
 PS C:\dev\diniz> Get-TechStack observability
 Grafana · Loki · Prometheus · SonarQube · Sentry
 
+PS C:\dev\diniz> Get-TechStack ml
+PyTorch · Transformer architecture · nanoGPT
+
 PS C:\dev\diniz> Get-Projects
 → CRM-Terreiro
   CRM for Afro-Brazilian religious communities (terreiros), built with layered architecture.
@@ -38,6 +41,11 @@ PS C:\dev\diniz> Get-Projects
   Multi-tenant for schools, built with RESTful architecture.
   Python · PostgreSQL · JWT · Docker · Django · Render · Sentry · Vercel
   github.com/Diniz-J/Diario-Escolar
+
+→ slm_music
+  Char-level Transformer built from scratch to study LLM internals — trained on curated Portuguese lyrics corpus.
+  Python · PyTorch · NumPy · Transformer architecture · char-level tokenization
+  github.com/Diniz-J/slm_music
 
 PS C:\dev\diniz> Get-Contact
 LinkedIn : linkedin.com/in/rodrigo-diniz-junior/
