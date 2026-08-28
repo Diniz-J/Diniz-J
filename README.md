@@ -29,7 +29,7 @@ PS C:\dev\diniz> Get-TechStack observability
 Grafana · Loki · Prometheus · SonarQube · Sentry
 
 PS C:\dev\diniz> Get-TechStack ml
-PyTorch · Transformer architecture · nanoGPT
+PyTorch · Transformer architecture · tiktoken · BPE tokenization · nanoGPT
 
 PS C:\dev\diniz> Get-Projects
 → CRM-Terreiro
@@ -46,6 +46,11 @@ PS C:\dev\diniz> Get-Projects
   Char-level Transformer built from scratch to study LLM internals — trained on curated Portuguese lyrics corpus.
   Python · PyTorch · NumPy · Transformer architecture · char-level tokenization
   github.com/Diniz-J/toylm_music
+
+→ estrofe_lm
+  Small Language Model (~18M params) with BPE tokenization and multi-artist Portuguese lyrics corpus. Successor of toylm_music.
+  Python · PyTorch · NumPy · tiktoken · Transformer architecture · BPE tokenization
+  github.com/Diniz-J/estrofe_lm
 
 PS C:\dev\diniz> Get-Contact
 LinkedIn : linkedin.com/in/rodrigo-diniz-junior/
