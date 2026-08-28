@@ -42,10 +42,10 @@ PS C:\dev\diniz> Get-Projects
   Python · PostgreSQL · JWT · Docker · Django · Render · Sentry · Vercel
   github.com/Diniz-J/Diario-Escolar
 
-→ slm_music
+→ toylm_music
   Char-level Transformer built from scratch to study LLM internals — trained on curated Portuguese lyrics corpus.
   Python · PyTorch · NumPy · Transformer architecture · char-level tokenization
-  github.com/Diniz-J/slm_music
+  github.com/Diniz-J/toylm_music
 
 PS C:\dev\diniz> Get-Contact
 LinkedIn : linkedin.com/in/rodrigo-diniz-junior/
